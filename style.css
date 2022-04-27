@@ -4,4 +4,23 @@ h1{
 
 p{ 
 color: greenyellow;
+font-weight: bold;
+}
+
+#parrafoconcss{
+    color: orange;
+}
+
+#labelmodificado{
+    font-family: serif;
+}
+.cambiodecolor1{
+    color: aquamarine;
+}
+.cambioacolor2{
+    color: royalblue;
+    font-family: 'Times New Roman', Times, serif;
+}
+#divp >p {
+    color:pink;
 }
