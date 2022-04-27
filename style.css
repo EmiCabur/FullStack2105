@@ -1,4 +1,4 @@
-h1{
+/* h1{
     color:blueviolet
 }
 
@@ -20,7 +20,8 @@ font-weight: bold;
 .cambioacolor2{
     color: royalblue;
     font-family: 'Times New Roman', Times, serif;
-}
+} */
 #divp >p {
     color:pink;
-}
+    font-size: 30px;
+} 
